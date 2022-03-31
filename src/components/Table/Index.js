@@ -134,7 +134,7 @@ const Table = () => {
                                 <td>SINGLE</td>
                                 <td>GASOLINE</td>
                                 <td>
-                                  <span className="badge bg-success">
+                                  <span className="badge bg-primary">
                                     Processed
                                   </span>
                                 </td>
@@ -151,7 +151,7 @@ const Table = () => {
                                 <td>SINGLE</td>
                                 <td>GASOLINE</td>
                                 <td>
-                                  <span className="badge bg-success">
+                                  <span className="badge bg-secondary">
                                     Processed
                                   </span>
                                 </td>
@@ -168,7 +168,7 @@ const Table = () => {
                                 <td>SINGLE</td>
                                 <td>GASOLINE</td>
                                 <td>
-                                  <span className="badge bg-success">
+                                  <span className="badge bg-danger">
                                     Processed
                                   </span>
                                 </td>
@@ -185,7 +185,7 @@ const Table = () => {
                                 <td>SINGLE</td>
                                 <td>GASOLINE</td>
                                 <td>
-                                  <span className="badge bg-success">
+                                  <span className="badge bg-warning">
                                     Processed
                                   </span>
                                 </td>
@@ -202,7 +202,7 @@ const Table = () => {
                                 <td>SINGLE</td>
                                 <td>GASOLINE</td>
                                 <td>
-                                  <span className="badge bg-success">
+                                  <span className="badge bg-info">
                                     Processed
                                   </span>
                                 </td>
@@ -219,24 +219,7 @@ const Table = () => {
                                 <td>SINGLE</td>
                                 <td>GASOLINE</td>
                                 <td>
-                                  <span className="badge bg-success">
-                                    Processed
-                                  </span>
-                                </td>
-                              </tr>
-                              <tr>
-                                <td>1</td>
-                                <td>MA3ENGL1S678899</td>
-                                <td>E2104B010A03A</td>
-                                <td>BGH2100015</td>
-                                <td>07-02-22 15:22:56</td>
-                                <td>CRETA 1.6 GL</td>
-                                <td>R4G</td>
-                                <td>HIGH</td>
-                                <td>SINGLE</td>
-                                <td>GASOLINE</td>
-                                <td>
-                                  <span className="badge bg-success">
+                                  <span className="badge bg-dark">
                                     Processed
                                   </span>
                                 </td>
