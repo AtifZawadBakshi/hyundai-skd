@@ -8,7 +8,7 @@ export default function Sidebar() {
           <div className="logo">
             <Link to="/">
               <img
-                src="assets/images/logo/Hyundai.png"
+                src="assets/images/logo/hyundai-motor-company-logo.svg"
                 alt="Logo"
                 width="200"
                 height="200"
